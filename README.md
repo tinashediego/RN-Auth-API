@@ -22,11 +22,3 @@ $ replace http://example.com/api with your own API base URL
 npx react-native run-android
 ```
 
-## Facing any problem? Contact with me
-
-Click on the image below to see YouTube video.
-
-[![React native SQLite storage](https://img.youtube.com/vi/kXVJYXd3C8k/0.jpg)](https://www.youtube.com/watch?v=kXVJYXd3C8k) 
-
-Please visit my website.
-[samironbarai.com](https://samironbarai.com) 
