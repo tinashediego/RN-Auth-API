@@ -1,10 +1,5 @@
 ## React native Authentication with REST API
 
-## Clone this repo
-```
-git clone https://github.com/samironbarai/rn-auth.git
-```
-
 ## Install dependency
 ```
 $ cd rn-auth
